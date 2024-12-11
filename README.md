@@ -2,7 +2,12 @@
 #### Final project - Evaluating three Pre-trained Transfer Learning models for Pneumonia detection
 
 ##### Abstract: 
-"For applications with little training data,
+"Chest X-Rays are a medical imaging method used
+to detect pneumonia. The x-ray images have to be evaluated
+by a trained radiologist to determine if the patient is infected.
+To support the decision, medical computer vision techniques
+can be used. In modern computer vision, deep learning is the
+most common method. For applications with little training data,
 transfer learning can be used to apply a pre-trained model on
 different data. In this paper, we compare three different pre-
 trained models: GoogleNet, ResNet-50 and DenseNet. These are
